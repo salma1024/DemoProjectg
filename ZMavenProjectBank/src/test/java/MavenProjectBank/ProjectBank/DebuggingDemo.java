@@ -10,7 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class DebuggingDemo {
 	
-	WebDriver driver;
+	private WebDriver driver;
 	
 @Test
 	public void logingt() {
